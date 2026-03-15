@@ -103,7 +103,9 @@ Audio files (`music.wav`, `jump.wav`, `hitEnemy.wav`, `receiveDamage.wav`, `leaf
 
 ## References
 
-All code was written by the author with AI assistance (see GenAI section below). No external code libraries beyond p5.js and p5.play (included in the course starter) were used. All audio assets were course-supplied. All visual assets are original procedurally generated works. No external references are required for this submission.
+All code was written by the author with AI assistance (see GenAI section below). All audio assets were course-supplied. All visual assets are original procedurally generated works.
+
+The assets are also from https://opengameart.org/
 
 ---
 
